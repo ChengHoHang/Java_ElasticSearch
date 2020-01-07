@@ -2,4 +2,4 @@
 Java ElasticSearch整合
 
 
-### 初学ES看看是怎样的
+就看看springboot是怎样集成ES的
